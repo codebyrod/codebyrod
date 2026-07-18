@@ -25,8 +25,8 @@ Minha base nas **Ciências Sociais** me deu o método científico e a criticidad
 </br>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="./assets/rank_evo_wuri.png" alt="Gráfico Evolução WURI" style="width: 100%; max-width: 450px; height: auto;" />
-  <img src="./assets/rank_2026_wuri.png" alt="Gráfico Ranking Atual WURI" style="width: 100%; max-width: 450px; height: auto;" />
+  <img src="./assets/rank_evo_wuri.png" alt="Gráfico Evolução WURI" style="width: 40%; max-width: 450px; height: auto;" />
+  <img src="./assets/rank_2026_wuri.png" alt="Gráfico Ranking Atual WURI" style="width: 40%; max-width: 450px; height: auto;" />
 </div>
 
 ---
@@ -88,13 +88,21 @@ Minha base nas **Ciências Sociais** me deu o método científico e a criticidad
 
 ---
 
-## 🏆 Projetos da 42 São Paulo
+## 🏆 Projetos Entregues da 42 São Paulo
 
 <div align="center">
   <a href="https://profile.intra.42.fr/users/rousa-" target="_blank">
     <img src="https://img.shields.io/badge/42_Level-4.05-00BABC?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" alt="42 Level" />
   </a>
 </br>
+<div style="text-align: left; line-height: 1.6; margin-bottom: 20px;">
+
+<h3>Commom Core</h3>
+
+<h4 style="font-weight: normal; text-align: left; line-height: 1.6; margin-top: 10px;">O Common Core da École 42 é a fase fundacional e imersiva do currículo, focada em construir uma base técnica rigorosa em engenharia de software do absoluto zero. Através de uma metodologia disruptiva baseada inteiramente em projetos práticos e aprendizado entre pares (peer-to-peer) — sem professores ou aulas teóricas —, a jornada mergulha profundamente na linguagem C e na arquitetura de sistemas Unix. Mais do que ensinar a escrever código, o Common Core desafia a dominar a gestão manual de memória, a estruturação de dados e a criação de algoritmos complexos, exigindo extrema resiliência, autonomia e pensamento crítico. É um processo intenso de resolução de problemas, projetado para forjar desenvolvedores capazes de se adaptar, entender o que acontece 'por baixo dos panos' e dominar qualquer tecnologia futura.</h4>
+<h4 style="font-weight: normal; text-align: left; line-height: 1.6; margin-top: 10px;">Os projetos abaixo são projetos entregues seguindo o currículo formativo do Commom Core.</h4>
+</div>
+
 <a href="https://github.com/codebyrod/libft" target="_blank">
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" width="120" alt="Libft" />
 </a>
