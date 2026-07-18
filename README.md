@@ -91,7 +91,7 @@ Minha base nas **Ciências Sociais** me deu o método científico e a criticidad
 ## 🏆 Projetos Entregues da 42 São Paulo
 
 <div align="center">
-  <a href="https://profile.intra.42.fr/users/rousa-" target="_blank">
+  <a href="https://profile.intra.42.fr/users/rosousa-" target="_blank">
     <img src="https://img.shields.io/badge/42_Level-4.05-00BABC?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" alt="42 Level" />
   </a>
 </br>
