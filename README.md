@@ -88,18 +88,35 @@ Minha base nas **Ciências Sociais** me deu o método científico e a criticidad
     <img src="https://img.shields.io/badge/42_Level-4.05-00BABC?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" alt="42 Level" />
   </a>
 </br>
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" width="120" alt="Libft" />
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2beroote.png" width="120" alt="Born2beroot" />
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linee.png" width="120" alt="Get Next Line" />
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" width="120" alt="Printf" />
+<a href="https://github.com/codebyrod/libft" target="_blank">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" width="120" alt="Libft" />
+</a>
+<a href="https://github.com/codebyrod/born2beroot" target="_blank">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2beroote.png" width="120" alt="Born2beroot" />
+</a>
+<a href="https://github.com/codebyrod/gnl" target="_blank">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linee.png" width="120" alt="Get Next Line" />
+</a>
+<a href="https://github.com/codebyrod/printf" target="_blank">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" width="120" alt="Printf" />
+</a>
 <br/>
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swape.png" width="120" alt="Push Swap" />
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minitalke.png" width="120" alt="Minitalk" />
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/fract-ole.png" width="120" alt="Fractol" />
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" width="120" alt="Minishell" />
+<a href="https://github.com/codebyrod/push_swap" target="_blank">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swape.png" width="120" alt="Push Swap" />
+</a>
+<a href="https://github.com/codebyrod/minitalk" target="_blank">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minitalke.png" width="120" alt="Minitalk" />
+</a>
+<a href="https://github.com/codebyrod/fract-ol" target="_blank">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/fract-ole.png" width="120" alt="Fractol" />
+</a>
+<a href="https://github.com/codebyrod/minishell" target="_blank">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" width="120" alt="Minishell" />
+</a>
 <br/>
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" width="120" alt="Philosophers" />
-
+<a href="https://github.com/codebyrod/philosopher" target="_blank">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" width="120" alt="Philosophers" />
+</a>
 </div>
 
 **Concluídos:** Libft · Born2beroot · Get Next Line · Printf · Push Swap · Minitalk · Fractol · Minishell · Philosophers
