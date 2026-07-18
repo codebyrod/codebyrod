@@ -22,6 +22,13 @@ Minha base nas **Ciências Sociais** me deu o método científico e a criticidad
 | - | - |
 | <img src="https://github.com/user-attachments/assets/63623e7f-e76f-4632-9957-058286ec20bb" width="220" /> | Faço parte da **[42 São Paulo](https://42sp.org.br/)**, uma iniciativa de ensino em engenharia de software baseada em um ecossistema global disruptivo, frequentemente reconhecido entre as universidades e institutos mais inovadores do mundo (ranking **WURI — Real Impact**). O modelo é totalmente focado em aprendizagem prática, baseada em projetos (*project-based learning*) e sem professores, onde o desenvolvimento técnico e a colaboração acontecem via *peer-learning* (aprendizado entre pares). Esse ambiente me permitiu construir um networking sólido com desenvolvedores focados em alto desempenho, metodologias ágeis e engenharia de sistemas robustos. |
 
+</br>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="./assets/rank_evo_wuri.png" alt="Gráfico Evolução WURI" style="width: 100%; max-width: 450px; height: auto;" />
+  <img src="./assets/rank_2026_wuri.png" alt="Gráfico Ranking Atual WURI" style="width: 100%; max-width: 450px; height: auto;" />
+</div>
+
 ---
 
 ## 🛠️ Tecnologias
