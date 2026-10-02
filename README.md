@@ -142,6 +142,7 @@ Os projetos abaixo são projetos entregues seguindo o currículo formativo do Co
 **🚧 Em andamento:** Cub3D
 
 <div align="center">
+<a href="https://github.com/codebyrod/cub3d" target="_blank">
 <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3de.png" width="120" alt="Cub3D" />
 </div>
 
